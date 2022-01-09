@@ -54,9 +54,9 @@ php artisan serve
 ```
 
 ### Super Admin Login
-#Email : superadmin@superadmin
-#Password : password
+Email : superadmin@superadmin
+Password : password
 
 ### Admin Login
-#Email : admin@admin
-#Password : password
+Email : admin@admin
+Password : password
